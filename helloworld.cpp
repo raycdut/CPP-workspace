@@ -7,4 +7,5 @@ using namespace std;
 int main()
 {
     std::cout << "chend" << std::endl;
+    return 0;
 }
