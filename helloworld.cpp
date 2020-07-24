@@ -6,5 +6,5 @@ using namespace std;
 
 int main()
 {
-    cout << "chend";
-}  
+    std::cout << "chend" << std::endl;
+}
